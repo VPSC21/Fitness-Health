@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name" translatable="false">Fitness &amp; Health</string>
+
+    <string name="pose1" translatable="false">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2" translatable="false">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base of your head and elbows pointed out. Using your abdominal bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
+    <string name="pose3" translatable="false">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4" translatable="false">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and not just your elbows. Now switch sides and do the same motion on the other side to complete one rep. </string>
+    <string name="pose5" translatable="false">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominal tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+
+
+    <string name="pose6" translatable="false">    Step 1:- Lie on your back on an exercise mat. With your arms straight at your sides, bend your knees and place your feet flat on the floor between18 and 24 inches apart.\n\n
+                             Step 2:- Breathing out, crunch your ab slightly upward and sideways to the right a couple of inches until your right hand touches your right heel.\n\n
+                             Step 3:- Hold brief|y and then return to your starting position while inhaling. Repeat on the left side. </string>
+    <string name="pose7" translatable="false">    Step 1:- You can perform straight-leg crunches by lying face up on the floor with your legs straight and then moving your upper body as you would for a standard bent-knee crunch.\n\n
+                             Step 2:- Alternatively, lie on your back, raise your legs so they are perpendicular to the floor and then perform the standard crunching motion with your torso.
+                             </string>
+    <string name="pose8" translatable="false">    Step 1:- Lie down on the floor placing your feet either under something that Will not move or by having a partner hold them. Your legs should be bent at the kneesPlace your hands behind your head and lock them together by clasping your fingers. This is the starting position.\n\n
+                             Step 2:- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n\n
+                             Step 3:- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhaling. \n\n
+                             Step 4:- Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose9" translatable="false">    Step 1:- Lying on the back,lift straight leg,extend opposite hand to touch toe. \n\n
+                             Step 2:- Please,return,alternate inhale down,exhale up at toe touch.
+                            </string>
+    <string name="pose10">    Step 1:- High Plank position then slowly rotate your torso to the side raising your arm till it gets inhale with the other one. \n\n
+                             Step 2:- Then return to the initial position.
+                            </string>
+    <string name="pose11">    Step 1:- Lie on the floor with your hands behind your head and lock them together by clasping your fingers.\n\n
+                             Step 2:- Raise your legs to bring your knees over your hips.\n\n
+                             Step 3:- Lift your hips, tailbone and head simultaneously off of the mat.
+                             Step 4:- Go back to previous position and repeat step 3.
+                            </string>
+    <string name="pose12">    Step 1:- Sit with bent knees and your feet pressing firmly into the floor, holding your hands next to your chest. \n\n
+                             Step 2:- Sit back slightly, keeping your spine straight.\n\n
+                             Step 3:- Exhale as you twist to the left, punching your right arm over to the left side. \n\n
+                             Step 4:- Inhale back to center, and then do the opposite side.
+                            </string>
+    <string name="pose13">    Step 1:- Lie on your back with your knees bent, feet flat and hip width. \n\n
+                             Step 2:- Lower your pelvis 2 inches from the floor. Squeeze your glutes and lift your pelvis back to bridge position.
+
+                            </string>
+    <string name="pose14">    Step 1:- Start in a low plank position with your body in a straight line, your elbows bent and under your shoulders, and your feet hip-width apart. \n\n
+                             Step 2:- Lift your left leg to a 45-degree angle and hold.\n\n
+                             Step 3:-  Switch legs and repeat.
+                            </string>
+    <string name="pose15">   Step 1:- Stand, extend arms 90° to sides, bend forward 90° at waist.\n\n
+                             Step 2:- Looking at the floor, rotate torso to touch hand to foot, rotate for other hand. \n\n
+                             Step 3:- Head will follow chest action. </string>
+
+
+    <string-array name="title_story">
+        <item>Bump Up Fiber:-</item>
+        <item>Increase Calcium and Vitamin D:-</item>
+        <item>Add More Potassium:-</item>
+        <item>Limit Added Sugars:-</item>
+        <item>Replace Saturated Fats:-</item>
+        <item>Cut Back on Sodium:-</item>
+        <item>Aim for a Variety of Colors:-</item>
+
+    </string-array>
+    <string-array name="details_story">
+    <item>
+        ->  Slice up raw vegetables to use as quick snacks. Storing celery and carrots in water in the refrigerator will keep them crisp longer.\n\n
+        ->  Start your day off with a whole grain cereal like oatmeal or food made with bulgur or teff. For even more fiber, top your cereal with berries, pumpkin seeds, or almonds.\n\n
+        ->  Add half a cup of beans or lentils to your salad to add fiber, texture, and flavor.\n\n
+        ->  Enjoy whole fruit—maybe a pear, apple, melon slice or passion fruit—with a meal or as dessert.\n\n
+    </item>
+
+        <item>
+        ->  Slice up raw vegetables to use as quick snacks. Storing celery and carrots in water in the refrigerator will keep them crisp longer.\n\n
+        ->  Start your day off with a whole grain cereal like oatmeal or food made with bulgur or teff. For even more fiber, top your cereal with berries, pumpkin seeds, or almonds.\n\n
+        ->  Add half a cup of beans or lentils to your salad to add fiber, texture, and flavor.\n\n
+        ->  Enjoy whole fruit—maybe a pear, apple, melon slice or passion fruit—with a meal or as dessert.\n\n
+    </item>
+
+        <item>
+        ->  Try new recipes that use beet greens, lima beans, or Swiss chard.\n\n
+        ->  Put some variety in your beverages with one cup of 100% prune juice or 100% pomegranate juice.\n\n
+        ->  Have a banana as a snack.\n\n
+        ->  Enjoy 100% orange juice or a recommended dairy product with your meals.\n\n
+    </item>
+
+        <item>
+        ->  Drink water instead of sugary drinks. Add berries or slices of lime, lemon, or cucumber for more flavor.\n\n
+        ->  Add fruit to your cereal or yogurt for sweetness.\n\n
+        ->  Don’t stock up on sugary drinks and snacks. Instead, drink water and keep fruit and vegetable slices handy for snacks.\n\n
+        ->  At coffee shops, skip the flavored syrups and whipped cream. Ask for low-fat or fat-free milk or an unsweetened, fortified soy beverage. Or get back to basics with black coffee.\n\n
+        ->  Read nutrition labels and choose foods with no or lower amounts of added sugars.\n\n
+    </item>
+
+        <item>
+        ->  Replace whole milk in a smoothie with low-fat yogurt and an avocado.\n\n
+        ->  Sprinkle nuts or seeds on salads instead of cheese.\n\n
+        ->  Use beans or seafood instead of meats as a source of protein.\n\n
+        ->  Cook with canola, corn, olive, peanut, safflower, soybean, or sunflower oil instead of butter or margarine.\n\n
+        ->  Replace full-fat milk and cheese with low-fat or fat-free versions.\n\n
+    </item>
+
+        <item>
+        ->  Instead of using salt, add flavor to your meals with a squeeze of lemon juice, a dash of no-salt spice blends, or fresh herbs.\n\n
+        ->  Eat high-sodium processed and prepackaged food less frequently. Many common foods, including breads, pizza, and deli meats, have high amounts of sodium.\n\n
+        ->  At the grocery store, read the Nutrition Facts label to find low-sodium products.\n\n
+        ->  Buy unprocessed food, such as fresh or frozen vegetables, to prepare at home without salt.\n\n
+    </item>
+
+        <item>
+        ->  Sprinkle fresh herbs over a salad or whole wheat pasta.\n\n
+        ->  Make a red sauce with fresh tomatoes (or canned tomatoes with low sodium or no salt added), fresh herbs, and spices.\n\n
+        ->  Add diced veggies—like peppers, broccoli, or onions—to stews and omelets to give them a boost of color and nutrients.\n\n
+        ->  Top low-fat, unsweetened yogurt with your favorite fruit.\n\n
+    </item>
+    </string-array>
+
+</resources>
